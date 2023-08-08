@@ -74,5 +74,5 @@ Object detection is a computer vision task where a computer identifies and locat
   - Ensures the model accurately identifies the type of object present in each cell.
  
 
-The total loss function in YOLO v1 is a combination of these four components, with appropriate weights (λ_coord, λ_noobj) applied to balance their influences. This comprehensive loss function guides the training of the YOLO model to accurately predict object bounding box positions, confidence scores, and class probabilities while considering the presence or absence of objects within grid cells.
+- Total Loss function in YOLO v1 is a combination of these four components, with appropriate weights (λ_coord, λ_noobj) applied to balance their influences. This comprehensive loss function guides the training of the YOLO model to accurately predict object bounding box positions, confidence scores, and class probabilities while considering the presence or absence of objects within grid cells.
 
