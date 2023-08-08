@@ -1,5 +1,5 @@
 # YOLO (You Only Look For Once) V1 Object Detection
-
+- I used Pascal VOC 2012 For Training of this project
 # Running Prototype of this project :
 https://huggingface.co/spaces/deep42/YOLO_V1_Object_Detection
 
