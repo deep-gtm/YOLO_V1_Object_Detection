@@ -3,6 +3,8 @@
   
 ![image](https://github.com/deep-gtm/YOLO_V1_Object_Detection/assets/70434931/60958917-945d-4718-bf32-092c8d20de49)
 ![image (1)](https://github.com/deep-gtm/YOLO_V1_Object_Detection/assets/70434931/446963fa-535b-4877-bde7-ebcee1b6a62d)
+![image (2)](https://github.com/deep-gtm/YOLO_V1_Object_Detection/assets/70434931/0ac7d729-7cb9-4cd8-948d-4a61b5e4311c)
+![image (3)](https://github.com/deep-gtm/YOLO_V1_Object_Detection/assets/70434931/5d26e0ac-5049-4a72-b254-d510ece80505)
 
 # Running Prototype of this project 
 https://huggingface.co/spaces/deep42/YOLO_V1_Object_Detection
