@@ -2,6 +2,7 @@
 - I used Pascal VOC 2012 For Training of this project
   
 ![image](https://github.com/deep-gtm/YOLO_V1_Object_Detection/assets/70434931/60958917-945d-4718-bf32-092c8d20de49)
+![image (1)](https://github.com/deep-gtm/YOLO_V1_Object_Detection/assets/70434931/446963fa-535b-4877-bde7-ebcee1b6a62d)
 
 # Running Prototype of this project 
 https://huggingface.co/spaces/deep42/YOLO_V1_Object_Detection
